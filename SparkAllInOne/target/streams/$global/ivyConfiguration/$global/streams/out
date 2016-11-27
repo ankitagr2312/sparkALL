@@ -1,8 +1,0 @@
-[debug] Other repositories:
-[debug] Default repositories:
-[debug] Using inline dependencies specified in Scala.
-[warn] Binary version (2.10.0-M7) for dependency org.scala-lang#scala-actors;2.10.0-M7
-[warn] 	in default#sparkallinone_2.10;1.0 differs from Scala binary version in project (2.10).
-[debug] Using inline dependencies specified in Scala.
-[warn] Binary version (2.10.0-M7) for dependency org.scala-lang#scala-actors;2.10.0-M7
-[warn] 	in default#sparkallinone$sources_2.10;1.0 differs from Scala binary version in project (2.10).

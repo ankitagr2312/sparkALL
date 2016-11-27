@@ -48,27 +48,11 @@ object matrixManipulation {
     val nCols = result.numCols()
     val nRows = result.numRows()
 
-    val blockMat1:RDD[BlockMatrix] = matrice1.map{
-      
-    }
-
     result.blocks.collect().foreach(println)
 
 
 
 
-
-
-
-    /*val rowMatrix1 = new RowMatrix(row11.map(_.vector))
-    val rowMatrix2 = new RowMatrix(row12.map(_.vector))
-
-    val localMatrix = Matrices.dense(3, 2, Array(1.0, 2.0, 3.0, 4.0, 5.0, 6.0))
-
-    rowMatrix1.multiply(localMatrix)
-
-    val mat: RowMatrix = new RowMatrix(matrice1.map(_.split(" ")))
-*/
 
   }
 

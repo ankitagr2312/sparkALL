@@ -1,0 +1,31 @@
+[0m[[0minfo[0m] [0mPackaging /root/Documents/SparkLauncher/target/scala-2.10/sparkallinone_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	testActorClass$$anonfun$receive$1.class[0m
+[0m[[0mdebug[0m] [0m	  /root/Documents/SparkLauncher/target/scala-2.10/classes/testActorClass$$anonfun$receive$1.class[0m
+[0m[[0mdebug[0m] [0m	RunnableInputStreamReader.class[0m
+[0m[[0mdebug[0m] [0m	  /root/Documents/SparkLauncher/target/scala-2.10/classes/RunnableInputStreamReader.class[0m
+[0m[[0mdebug[0m] [0m	SampleStreamExample$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /root/Documents/SparkLauncher/target/scala-2.10/classes/SampleStreamExample$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	SampleStreamExample$.class[0m
+[0m[[0mdebug[0m] [0m	  /root/Documents/SparkLauncher/target/scala-2.10/classes/SampleStreamExample$.class[0m
+[0m[[0mdebug[0m] [0m	sparkSql$.class[0m
+[0m[[0mdebug[0m] [0m	  /root/Documents/SparkLauncher/target/scala-2.10/classes/sparkSql$.class[0m
+[0m[[0mdebug[0m] [0m	SampleStreamExample$$anonfun$main$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	  /root/Documents/SparkLauncher/target/scala-2.10/classes/SampleStreamExample$$anonfun$main$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	SampleStreamExample.class[0m
+[0m[[0mdebug[0m] [0m	  /root/Documents/SparkLauncher/target/scala-2.10/classes/SampleStreamExample.class[0m
+[0m[[0mdebug[0m] [0m	sparkSql$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /root/Documents/SparkLauncher/target/scala-2.10/classes/sparkSql$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	testActor.class[0m
+[0m[[0mdebug[0m] [0m	  /root/Documents/SparkLauncher/target/scala-2.10/classes/testActor.class[0m
+[0m[[0mdebug[0m] [0m	testActor$.class[0m
+[0m[[0mdebug[0m] [0m	  /root/Documents/SparkLauncher/target/scala-2.10/classes/testActor$.class[0m
+[0m[[0mdebug[0m] [0m	testActorClass.class[0m
+[0m[[0mdebug[0m] [0m	  /root/Documents/SparkLauncher/target/scala-2.10/classes/testActorClass.class[0m
+[0m[[0mdebug[0m] [0m	SparkLauncher$.class[0m
+[0m[[0mdebug[0m] [0m	  /root/Documents/SparkLauncher/target/scala-2.10/classes/SparkLauncher$.class[0m
+[0m[[0mdebug[0m] [0m	SparkLauncher.class[0m
+[0m[[0mdebug[0m] [0m	  /root/Documents/SparkLauncher/target/scala-2.10/classes/SparkLauncher.class[0m
+[0m[[0mdebug[0m] [0m	sparkSql.class[0m
+[0m[[0mdebug[0m] [0m	  /root/Documents/SparkLauncher/target/scala-2.10/classes/sparkSql.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
